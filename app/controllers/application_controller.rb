@@ -24,4 +24,3 @@ get '/' do
         erb :team
       end
     end
-end
